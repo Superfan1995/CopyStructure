@@ -1,0 +1,10 @@
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.csprojAssemblyReference.cache
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.copyStructForm.resources
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.Properties.Resources.resources
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\bin\Debug\CopyStructure.exe.config
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\bin\Debug\CopyStructure.exe
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\bin\Debug\CopyStructure.pdb
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.exe
+C:\Users\labuser\source\repos\CopyStructure\CopyStructure\obj\Debug\CopyStructure.pdb
